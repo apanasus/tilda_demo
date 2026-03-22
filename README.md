@@ -63,9 +63,3 @@ document.addEventListener('productremovedfromcart', handler)
 document.addEventListener('allanimationend',      handler)
 document.addEventListener('scrollto',             handler)
 ```
-
-## Полезные ссылки
-
-- [Tilda Help: JavaScript](https://help.tilda.cc/dev)
-- [Tilda Help: Zero Block](https://help.tilda.cc/zeroblock)
-- [Tilda Help: Магазин](https://help.tilda.cc/store)
